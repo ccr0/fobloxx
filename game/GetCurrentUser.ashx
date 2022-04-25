@@ -1,1 +1,0 @@
-print ("damn you zsq#9967!!!!")
